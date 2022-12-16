@@ -2,11 +2,11 @@
 
 👀 I’m interested in
 - coding _- computer vision, artificial intelligence, anomaly detection -_
-- knowlege _- thought linking, second brain -_
+- knowledge _- thought linking, second brain -_
 
 🌱 I’m currently
-- building a startup to enhance the manufacturing industy
-- enhanceing my second brain
+- building a startup to enhance the manufacturing industry
+- enhancing my second brain
 
 📫 How to reach me\
 - :envelope: mail@nico-engelmann.de
