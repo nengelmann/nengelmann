@@ -5,7 +5,7 @@
 - knowledge _- thought linking, second brain -_
 
 🌱 I’m currently
-- building a startup to enhance the manufacturing industry
+- building a startup to support the manufacturing industry
 - enhancing my second brain
 
 📫 How to reach me\
