@@ -7,6 +7,7 @@
 🌱 I’m currently
 - building a startup to support the manufacturing industry
 - enhancing my second brain
+- participate at the [OpenCV AI Competition 2023](https://www.hackster.io/poseestimators/pose-estimate-anything-custom-6dof-object-pose-estimation-de7bc6#story)
 
 📫 How to reach me
 - :envelope: mail@nico-engelmann.de
