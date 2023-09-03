@@ -14,7 +14,8 @@
 - knowledge _- thought linking, second brain -_
 
 🌱 I’m currently
-- building a startup to support the manufacturing industry
+- building a a new SaaS \
+[Custom-Dataset.com](https://custom-dataset.com/) -> sign up for alpha access 🚀
 - enhancing my second brain
 - participate at the [OpenCV AI Competition 2023](https://www.hackster.io/poseestimators/pose-estimate-anything-custom-6dof-object-pose-estimation-de7bc6#story)
 
