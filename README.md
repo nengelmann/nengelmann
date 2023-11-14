@@ -10,7 +10,7 @@
 </p>
 
 👀 I’m interested in
-- coding _- computer vision, artificial intelligence, anomaly detection -_
+- coding _- computer vision, artificial intelligence, multi modal LLMs -_
 - knowledge _- thought linking, second brain -_
 
 🌱 I’m currently
