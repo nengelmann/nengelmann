@@ -10,7 +10,7 @@
 </p>
 
 👀 I’m interested in
-- coding _- computer vision, artificial intelligence, multi modal LLMs -_
+- coding _- computer vision, artificial intelligence, LLMs -_
 - knowledge _- thought linking, second brain -_
 - automation _- workflows, processes -_
 
