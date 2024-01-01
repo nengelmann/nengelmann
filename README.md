@@ -12,12 +12,11 @@
 👀 I’m interested in
 - coding _- computer vision, artificial intelligence, multi modal LLMs -_
 - knowledge _- thought linking, second brain -_
+- automation _- workflows, processes -_
 
 🌱 I’m currently
-- building a a new SaaS \
-[Custom-Dataset.com](https://custom-dataset.com/) -> sign up for alpha access 🚀
 - enhancing my second brain
-- participate at the [OpenCV AI Competition 2023](https://www.hackster.io/poseestimators/pose-estimate-anything-custom-6dof-object-pose-estimation-de7bc6#story)
+- working as AI Engineer
 
 📫 How to reach me
 - :envelope: mail@nico-engelmann.de
